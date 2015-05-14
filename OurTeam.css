@@ -45,11 +45,11 @@ a {
 .Dad, .Brother {
   float:left;
   margin-right: 15px;
-  margin-right: 15px;
+  margin-bottom: 15px;
 }
 
 .Mom, .Me {
   float:right;
-  margin-right: 15px;
-  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
 }

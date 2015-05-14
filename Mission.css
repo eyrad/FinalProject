@@ -55,14 +55,14 @@ a {
 
 .picture {
   float: right;
-  margin-right: 15px;
   margin-bottom: 15px;
+  margin-left: 15px;
 }
 
 img {
-  border: solid black;
+  border: solid black 1px;
 }
 
 h2{
-  padding-bottom: 35px;
+  padding-bottom: 15px;
 }

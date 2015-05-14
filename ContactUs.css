@@ -1,3 +1,7 @@
+body {
+  font-family: helvetica;
+}
+
 ul.nav {
 	list-style: none;
 	height: 20px;
@@ -31,38 +35,4 @@ ul.nav li:hover{
 
 a {
 	text-decoration:none;
-}
-
-.imgaes {
-	width: 250px;
-	height: 150px;  
-	margin: 0 auto;
-}
-
-h1, h3 {
-	font-family: helvetica;
-	text-align: center;
-}
-
-.do {
-  width: 900px;
-  margin: 0 auto;
-  font-family: helvetica;
-  text-align: center;
-}
- 
-.column {
-  float: left;
-  width: 300px;
-}
-
-.row {
-  padding-left: 25px;
-  padding-right: 25px;
-  margin-bottom: 40px;
-  margin-top: 40px;
-} 
-
-img {
-	border: solid black 1px;
 }
