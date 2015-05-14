@@ -37,32 +37,19 @@ a {
   text-decoration:none;
 }
 
-.top {
+.Daddy, .Mama, .Mante, .Eyra {
   width: 900px;
   margin: 0 auto;
 }
 
-.pic {
+.Dad, .Brother {
   float:left;
   margin-right: 15px;
-  margin-bottom: 15px;
-}
-
-.bottom {
-  width: 900px;
-  margin: 0 auto;
-}
-
-.picture {
-  float: right;
   margin-right: 15px;
-  margin-bottom: 15px;
 }
 
-img {
-  border: solid black;
-}
-
-h2{
-  padding-bottom: 35px;
+.Mom, .Me {
+  float:right;
+  margin-right: 15px;
+  margin-right: 15px;
 }

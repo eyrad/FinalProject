@@ -35,8 +35,8 @@ a {
 
 .imgaes {
 	width: 250px;
-	height: 150px;
-	display: absolute;
+	height: 150px;  
+	margin: 0 auto;
 }
 
 h1, h3 {
